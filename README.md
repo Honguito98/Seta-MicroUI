@@ -32,3 +32,5 @@ como en el caso de los _Checkboxes_ con los _Radio Buttons_ del tipo _push-pull_
 
 Para facilitar aún más el desarrollo, para **MicroUI** se incluye un pequeño **Administrador de ventanas** llamado **MicroUI.java**
 
+![The Editor - alpha stage](https://github.com/Honguito98/Seta-MicroUI/blob/master/help.images/seta-microUI-test-alpha.png)
+Image: _**The editor + MicroUI test: alpha stage**_
